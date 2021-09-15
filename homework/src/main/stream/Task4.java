@@ -1,4 +1,4 @@
-package main;
+package main.stream;
 
 /**
  * Many java developers wrote methods to calculate a factorial value using a

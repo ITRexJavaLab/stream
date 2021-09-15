@@ -1,4 +1,4 @@
-package main;
+package main.stream;
 
 /**
  * Write a method for calculating the sum of

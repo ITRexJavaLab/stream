@@ -1,4 +1,4 @@
-package main;
+package main.stream;
 
 /**
  * Write a method using Stream API to check the input number is prime or not.
